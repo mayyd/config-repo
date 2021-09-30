@@ -1,9 +1,4 @@
-server:
-  port: 8088
-  
-spring:
-  application:
-    name: config-consumer
-
 info:
   profile: prod
+
+name: hello
