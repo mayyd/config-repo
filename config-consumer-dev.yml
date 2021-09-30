@@ -4,3 +4,6 @@ server:
 spring:
   application:
     name: config-consumer
+
+info:
+  profile: dev
